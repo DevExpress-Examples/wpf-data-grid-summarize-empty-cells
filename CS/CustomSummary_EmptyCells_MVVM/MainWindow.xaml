@@ -9,14 +9,10 @@
         <local:MainViewModel />
     </Window.DataContext>
     <Grid>
-        <dxg:GridControl GroupCount="1"
-                         ItemsSource="{Binding Items}"
+        <dxg:GridControl ItemsSource="{Binding Items}"
                          CustomSummaryCommand="{Binding CustomSummaryCommand}">
-            <dxg:GridControl.SortInfo>
-                <dxg:GridSortInfo FieldName="Text" />
-            </dxg:GridControl.SortInfo>
             <dxg:GridControl.Columns>
-                <dxg:GridColumn FieldName="Text" />
+                <dxg:GridColumn FieldName="Text" GroupIndex="0" />
                 <dxg:GridColumn FieldName="Number" />
             </dxg:GridControl.Columns>
             <dxg:GridControl.View>

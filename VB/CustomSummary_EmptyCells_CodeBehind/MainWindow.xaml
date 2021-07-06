@@ -7,13 +7,9 @@
         Title="MainWindow" Width="800" Height="450">
     <Grid>
         <dxg:GridControl x:Name="grid"
-                         GroupCount="1"
                          CustomSummary="OnCustomSummary">
-            <dxg:GridControl.SortInfo>
-                <dxg:GridSortInfo FieldName="Text" />
-            </dxg:GridControl.SortInfo>
             <dxg:GridControl.Columns>
-                <dxg:GridColumn FieldName="Text" />
+                <dxg:GridColumn FieldName="Text" GroupIndex="0" />
                 <dxg:GridColumn FieldName="Number" />
             </dxg:GridControl.Columns>
             <dxg:GridControl.View>

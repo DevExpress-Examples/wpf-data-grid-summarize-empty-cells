@@ -41,5 +41,6 @@ If you want to maintain a clean MVVM pattern and specify custom summaries in a V
 
 - [How to Display Group Summaries](https://github.com/DevExpress-Examples/how-to-display-group-summaries-e1637)
 - [How to Display Total Summaries](https://github.com/DevExpress-Examples/how-to-display-total-summaries-e1636)
+- [How to Calculate Custom Node Summaries in TreeListView](https://github.com/DevExpress-Examples/how-to-calculate-custom-node-summaries-in-treelistview-t506349)
 - [How to Bind the WPF GridControl to Total and Group Summaries Specified in ViewModel](https://github.com/DevExpress-Examples/wpf-mvvm-how-to-bind-the-gridcontrol-to-total-and-group-summaries-specified-in-viewmodel)
 - [How to sort group rows by summary values](https://github.com/DevExpress-Examples/how-to-sort-group-rows-by-summary-values-e1540)

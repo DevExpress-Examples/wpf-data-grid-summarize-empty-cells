@@ -18,7 +18,7 @@
             <dxg:GridControl.View>
                 <dxg:TableView AutoWidth="True"
                                NavigationStyle="Cell"
-                               ShowTotalSummary="True" />
+                               TotalSummaryPosition="Bottom" />
             </dxg:GridControl.View>
             <dxg:GridControl.TotalSummary>
                 <dxg:GridSummaryItem DisplayFormat="Total empty cells count: {0}"

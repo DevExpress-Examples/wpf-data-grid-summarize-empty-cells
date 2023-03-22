@@ -4,13 +4,13 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WPF Data Grid - How to Use Custom Summaries
+# WPF Data Grid - Use Custom Summaries
 
-This example demonstrates how to use custom summaries to count the total number of empty cells in the specified grid column:
-
-If you want to maintain a clean MVVM pattern and specify custom summaries in a ViewModel, create a command and bind it to the [GridControl.CustomSummaryCommand](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl.CustomSummaryCommand) property.
+This example demonstrates how to use custom summaries to count the total number of empty cells in the specified grid column.
 
 ![](https://docs.devexpress.com/WPF/images/GridControl_CustomSummaryCommand.png)
+
+If you want to maintain a clean MVVM pattern and specify custom summaries in a ViewModel, create a command and bind it to the [GridControl.CustomSummaryCommand](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl.CustomSummaryCommand) property.
 
 <!-- default file list -->
 

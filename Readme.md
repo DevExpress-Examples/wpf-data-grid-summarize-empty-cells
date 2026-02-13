@@ -44,7 +44,7 @@ If you want to maintain a clean MVVM pattern and specify custom summaries in a V
 - [How to Bind the WPF GridControl to Total and Group Summaries Specified in ViewModel](https://github.com/DevExpress-Examples/wpf-mvvm-how-to-bind-the-gridcontrol-to-total-and-group-summaries-specified-in-viewmodel)
 - [How to sort group rows by summary values](https://github.com/DevExpress-Examples/how-to-sort-group-rows-by-summary-values-e1540)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-summarize-empty-cells&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-summarize-empty-cells&~~~was_helpful=no)
 
